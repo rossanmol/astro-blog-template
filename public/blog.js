@@ -1,4 +1,5 @@
 ---
+export const prerender = false;
 // import BlogPost from '../../layouts/BlogPost.astro';
 // Layout Import
 import MainLayout from '../../layouts/MainLayout.astro'
